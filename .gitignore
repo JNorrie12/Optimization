@@ -3,5 +3,12 @@
 *.zip
 *.png
 *.json
-*.tex
+
 *.pyc
+
+#Latex
+*.tex
+*.dvi
+*.log
+*.aux
+*.gz
